@@ -3,6 +3,8 @@ Hybrid Logical Clocks in Go
 
 http://www.cse.buffalo.edu/tech-reports/2014-04.pdf
 
+[GoDoc](http://godoc.org/github.com/lafikl/hlc)
+
 
 ## Usage
 
@@ -34,7 +36,7 @@ func main() {
 
 
 -----------
-
+```
 BSD 3-Clause License
 
 Copyright (c) 2017, Khalid Lafi
@@ -64,3 +66,4 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+```
